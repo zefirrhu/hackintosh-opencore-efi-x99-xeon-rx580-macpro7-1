@@ -26,7 +26,7 @@ This repository contains a customized and fully adapted OpenCore EFI for running
 * **Motherboard:** Amentmen X99-B4 (LGA 2011-3; Intel® X99 / Intel® C612)
 * **CPU:** Intel® Xeon® Processor E5-2697A v4 — Broadwell-EP family (16 cores / 32 threads, base 2.60 GHz, Turbo up to 3.60 GHz, 40 MB L3 Smart Cache, TDP 145 W)
 * **Memory:** Micron DDR4 ECC — 8 × 4 GB (32 GB total)
-* **GPU:** AMD Radeon™ RX 580 — 8 GB GDDR5 (PCIe 3.0 x16)
+* **GPU:** AMD Radeon™ RX 580 — 8 GB GDDR5 (PCIe 3.0 x16, 2304SP, Video BIOS: 113-BE366EU-Z46, 015.050.002.001.000000)
 * **Primary storage:** Samsung 980 M.2 NVMe SSD
 * **External NIC:** TP-Link TX201 (Realtek® RTL8125-based, 2.5 Gbps)
 * **Onboard NIC:** Realtek RTL8111 series (Gigabit)
